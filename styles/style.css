@@ -270,6 +270,7 @@ font-size: 18px;
 /* 4 Шаг закончен */
 
 .button {
+  font-family: 'Fira Sans Condensed', sans-serif;
   border: 1px solid #fff;
   background-color: transparent;
   color: #fff;
